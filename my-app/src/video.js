@@ -20,7 +20,8 @@ function CameraScreen() {
 
   return (
     <div>
-      <h1>Camera Screen</h1>
+      <h1>CARLOS JAVIER CASTRO GONZALEZ</h1>
+      <h1>201901121</h1>
       <video ref={videoRef} autoPlay playsInline />
     </div>
   );
